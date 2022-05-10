@@ -28,4 +28,4 @@ All copyrights of the dataset belong to Dr. Harshika Chebolu, Post Graduate in G
 
 ### Support
 
-Having trouble understanding or implementing this project? Check out the [documentation](https://github.com/ritvik-chebolu/Acute-Ischemic-Stroke-Prediction/edit/gh-pages/index.md#documentation) or create a pull request and I could help you sort it out.
+Having trouble understanding or implementing this project? Check out the [documentation](https://github.com/SaiTulasi69/Acute-Ischemic-Stroke-Prediction/edit/main/README.md#documentation) or create a pull request and I could help you sort it out.
